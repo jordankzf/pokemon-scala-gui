@@ -1,6 +1,12 @@
 # Pokémon Scala (GUI)
 As an exercise to demonstrate understanding of object-oriented programming, we recreated Pokémon from the ground-up with Scala.
 
+# Screenshots
+
+<img src="images/menu.png">
+
+<img src="images/battle.png">
+
 ## Features
 
 * **Visually appealing background and images** 
