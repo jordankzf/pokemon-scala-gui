@@ -21,7 +21,7 @@ Graphical User Interface is also present in the application, such as the impleme
 
 The application created has sound which helps build tension in the game, as well as adding to the immersion of the game. The implementations of sound and music in the game also make it less bland and allows for a better feel of the application compared to if the app does not have any sound at all. For example, attack sounds and death sounds were also implemented to make the game feel more immersive and believable in a sense. The game will also play music at the Title screen, during the battle, and when a player win.
 
-## Issues
+## Drawbacks
 
 *	**Limited features**
 
