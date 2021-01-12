@@ -1,13 +1,13 @@
 # Pokémon Scala (GUI)
 As an exercise to demonstrate understanding of object-oriented programming, we recreated Pokémon from the ground-up with Scala.
 
-# Screenshots
+## Screenshots
 
 <img src="images/menu.png">
 
 <img src="images/battle.png">
 
-# Features
+## Features
 
 * **Visually appealing background and images** 
 
@@ -21,7 +21,7 @@ Graphical User Interface is also present in the application, such as the impleme
 
 The application created has sound which helps build tension in the game, as well as adding to the immersion of the game. The implementations of sound and music in the game also make it less bland and allows for a better feel of the application compared to if the app does not have any sound at all. For example, attack sounds and death sounds were also implemented to make the game feel more immersive and believable in a sense. The game will also play music at the Title screen, during the battle, and when a player win.
 
-# Drawbacks
+## Drawbacks
 
 *	**Limited features**
 
@@ -35,11 +35,11 @@ Certain mechanics introduced in the game may or may not lead to unfairness due t
 
 One problem that the application faces is that the application and its components do not scale proportionately when the window is maximized, which can be jarring and make users lose interest in terms of how the application is developed.
 
-# UML Class Diagram
+## UML Class Diagram
 
 <img src="images/classDiagram.png">
 
-# Class-Responsibility Collaborator (CRC)
+## Class-Responsibility Collaborator (CRC)
 
 <img src="images/abstract.png">
 
